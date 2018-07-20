@@ -7,10 +7,10 @@ export default class Instagram extends React.Component {
     render () {
         return (
             <>
-                <Header/>
-                <Content/>
-            )
-            </>;
+                <Header />
+                <Content />
+            </>
+        );
     }
 
 }
